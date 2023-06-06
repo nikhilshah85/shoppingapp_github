@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\shoppingapp_vs.props" />
+</Project>
